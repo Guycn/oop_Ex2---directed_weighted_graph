@@ -10,7 +10,7 @@ import java.util.List;
  * 5. Save(file); // JSON file
  * 6. Load(file); // JSON file
  *
- * @author boaz.benmoshe
+ * @Guy Cohen
  *
  */
 public interface dw_graph_algorithms {
